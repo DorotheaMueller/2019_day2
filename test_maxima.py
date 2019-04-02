@@ -23,7 +23,6 @@ test_cases_indice_edges = [
 	([4, 2, 1, 3, 1, 2], [0, 3, 5]),
 ]
 
-
 @pytest.mark.xfail
 def test_string_input():
 	out = find_maxima(['asdf'])
