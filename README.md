@@ -1,3 +1,5 @@
+For the branch unittest the current status is: [![Build Status](https://travis-ci.com/DorotheaMueller/2019_day2.svg?branch=unittest)](https://travis-ci.com/DorotheaMueller/2019_day2)
+
 # TESTING
 - start right away with the [`maxima.py`](maxima.py) function and the corresponding [`maxima_exercise.md`](maxima_exercise.md)
 - how do you keep track of the manual testing?
